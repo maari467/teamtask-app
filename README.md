@@ -11,8 +11,6 @@ Run backend
 3. `npm install`
 4. `npm run dev`
 
-Check: http://localhost:5000/api/health
-
  API
 - POST `/api/auth/register`  `{ name, email, password }`
 - POST `/api/auth/login`     `{ email, password }`
